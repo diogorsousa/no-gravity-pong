@@ -26,4 +26,4 @@ To get a local copy of the **source** up and running follow these simple steps:
 4. The project should now appear in the Unity Hub project list. Click on it to open with Unity
 
 ## License
-This project is licenses under the terms of the Creative Commons Attribution-NonCommercial 4.0 International Public License.
+This project is licensed under the terms of the Creative Commons Attribution-NonCommercial 4.0 International Public License.
